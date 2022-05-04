@@ -7,4 +7,5 @@ The seminar slides are available [at this link](https://luca-menghini.github.io/
 
 ## Materials
 - `data` includes the datasets used in the exercise with JASP. 
+
 To download a file, open it, click on `Raw`, left-click on the data table, and select `Save as`

@@ -1,5 +1,5 @@
-# Psychophysiology of workplace stress
-## Theoretical, methodological, and statistical perspectives
+# Psychophysiology of workplace stress: Theoretical, methodological, and statistical perspectives
+
 This repository includes the slides and the materials for the seminar on the psychophysiology of stress and workplace stress, with a practical execise with JASP.
 
 ## Seminar slides

@@ -5,10 +5,10 @@ author: |
  |
  | Luca Menghini Ph.D. \fontsize{8pt}{7.2}\selectfont
  |
- | Postdoc fellow, Department of Psychology, 
- | University of Bologna
+ | Department of Psychology and Cognitive Science 
+ | University of Trento
  |
- | luca.menghini3@unibo.it
+ | luca.menghini-1@unitn.it
  |
  |
  | ***
@@ -18,7 +18,8 @@ author: |
  | Master degree in Work, Organizational, and Personnel Psychology
  |
  | University of Bologna
- | Academic year 2021 - 2022
+ |
+ | Academic year 2022 - 2023
  |
  | ![](logo.PNG){width=3.3in} \fontsize{8pt}{7.2}\selectfont 
  |
@@ -52,11 +53,13 @@ library(Cairo)
 
 -   **2017: Post-lauream internship** @ Inside Performance (stress management & biofeedback in sport and organizational contexts) + **Psychophysiology Lab** @ uniPD (signal processing & data analysis) 
 
--   **2017-2021: Ph.D. in Psychological Sciences** @uniPD \newline \fontsize{5.5pt}{12}\selectfont "*Workplace stress in real time: Towards the psychophysiological assessment of stressors and strain under ecological conditions*" \fontsize{6.5pt}{12}\selectfont
+-   **2017-2021: Ph.D. in Psychological Sciences** @uniPD \newline \fontsize{5.5pt}{12}\selectfont "*Towards the psychophysiological assessment of stressors and strain under ecological conditions*" \fontsize{6.5pt}{12}\selectfont
 
 -   **2020: Visiting period** @ SRI International (CA, USA) \newline \fontsize{5.5pt}{12}\selectfont Use & accuracy of sleep consumer technology, relationships between stress and sleep \fontsize{6.5pt}{12}\selectfont
 
--   **2021: Postdoc fellow** @ uniBO \newline \fontsize{5.5pt}{12}\selectfont "*State workaholism as a predictor of daily fluctuations in blood pressure, emotional exhaustion, and sleep quality*"
+-   **2021: Postdoc fellow** @ uniBO \newline \fontsize{5.5pt}{12}\selectfont "*State workaholism & daily fluctuations in blood pressure, emotional exhaustion, and sleep quality*" \fontsize{6.5pt}{12}\selectfont
+
+-   **2023: Postdoc fellow** @ uniTN \newline \fontsize{5.5pt}{12}\selectfont "*Youth transitions from school to work*"
 
 ## Outline
 
@@ -73,7 +76,7 @@ library(Cairo)
 
 - **Psychological theories of stress** \newline Cognitive, affective, and social processes incolved in the stress response
 
-- **Psicofisiologia dello stress lavoro-correlato** \newline Psychosocial hazards & psychophysiological responses \newline
+- **Psychophysiology of workplace stress** \newline Psychosocial hazards & psychophysiological responses \newline
 
 - **Hands on: Towards multilevel modeling** \newline Modeling workplace stress within individuals
 

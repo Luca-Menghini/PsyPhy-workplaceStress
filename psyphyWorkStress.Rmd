@@ -883,7 +883,7 @@ knitr::include_graphics("img/white.PNG")
 
 \fontsize{7pt}{12}\selectfont
 
-luca.menghini3@unibo.it 
+luca.menghini-1@unitn.it 
 
 \color{blue} [Linkedin](https://linkedin.com/in/lucamenghini) \color{black} | \color{blue} [ResearchGate](https://www.researchgate.net/profile/Luca-Menghini) \color{black} | \color{blue} [GitHub](https://github.com/luca-menghini) \color{black} | \color{blue} [Twitter (LuMenPsy)](https://twitter.com/LuMenPsy)
 
@@ -1083,6 +1083,6 @@ knitr::include_graphics("img/white.PNG")
 
 \fontsize{7pt}{12}\selectfont
 
-luca.menghini3@unibo.it 
+luca.menghini-1@unitn.it 
 
 \color{blue} [Linkedin](https://linkedin.com/in/lucamenghini) \color{black} | \color{blue} [ResearchGate](https://www.researchgate.net/profile/Luca-Menghini) \color{black} | \color{blue} [GitHub](https://github.com/luca-menghini) \color{black} | \color{blue} [Twitter (LuMenPsy)](https://twitter.com/LuMenPsy)
